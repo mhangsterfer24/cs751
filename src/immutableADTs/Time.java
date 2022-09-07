@@ -1,5 +1,6 @@
 package immutableADTs;
 
-public class Time {
+public class Time 
+{
 
 }
